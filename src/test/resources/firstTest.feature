@@ -6,4 +6,3 @@ Feature: Web Login
     When the user enters valid credentials
     And click on submit
     Then the user should be logged in successfully
-    
